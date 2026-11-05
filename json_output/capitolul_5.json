@@ -19,5 +19,26 @@
     "difficulty": "hard",
     "hint": "hint1",
     "explanation": "explain1"
+  },
+  {
+    "id": "cap5_q2",
+    "chapterId": 5,
+    "subchapterId": "5.2",
+    "subchapterTitle": "5.2 A bőr függelékei[cite: 449]",
+    "questionText": "tesztkerdes 2",
+    "options": [
+      "A) tesztvalasz1",
+      "B) tesztvalasz2",
+      "C) tesztvalasz3",
+      "D) tesztvalasz4"
+    ],
+    "correctAnswers": [
+      0,
+      3
+    ],
+    "isMultipleChoice": true,
+    "difficulty": "hard",
+    "hint": "123",
+    "explanation": "1234"
   }
 ]
